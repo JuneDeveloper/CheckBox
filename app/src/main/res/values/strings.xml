@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="info">Информация</string>
+    <string name="trafficLaws">Правила дорожного движения</string>
+</resources>
